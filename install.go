@@ -8,6 +8,8 @@ import (
 	"github.com/robmerrell/comandante"
 )
 
+//test comment
+
 var (
 	instArgs []*bool
 )
