@@ -42,4 +42,4 @@ test: completion
 clean:
 	$(RM) $(GENERATED) completion $(subst .go,,$(notdir $(PEGS)))
 
-include ../../parser/PegRules.make
+include ../../../quarnster/parser/PegRules.make
